@@ -1,1 +1,1 @@
-print("Hello Teacher")
+print("You are my favorite professor")
